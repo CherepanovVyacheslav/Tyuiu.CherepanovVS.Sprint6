@@ -16,6 +16,7 @@ namespace Tyuiu.CherepanovVS.Sprint6.Task0.V6.Test
             double wait = 0.866;
             Assert.AreEqual(res, wait);
 
+
         }
     }
 }
