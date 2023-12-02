@@ -32,7 +32,7 @@ namespace Tyuiu.CherepanovVS.Sprint6.Task1.V5
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Таск 1 выполнил студент группы ПКТб-23-1 Черепанов Вячеслав Сергеевич","Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Таск 2 выполнил студент группы ПКТб-23-1 Черепанов Вячеслав Сергеевич", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void buttonResult_Click(object sender, EventArgs e)
